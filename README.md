@@ -11,3 +11,9 @@ A `.env` file with the following variables set:
 HOST=
 PORT=
 PASSWORD=
+```
+
+### Notes
+- The toast window is designed to work best with borderless/windowed games.
+- In true exclusive fullscreen mode, regular desktop windows may appear behind the game.
+- The screen resolution and toast position are currently hardcoded in pixels. If your display setup differs, you may need to adjust the window size, coordinates, and related layout constants manually.
